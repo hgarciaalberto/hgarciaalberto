@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 | Stats | Top Languages |
-| ------|:---------:|
+| ------|:-------------:|
 | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hgarciaalberto)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgarciaalberto&langs_count=3&hide=CSS)](https://github.com/anuraghazra/github-readme-stats) |
 
-<br></br>
-<a href="https://github.com/hgarciaalberto/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hgarciaalberto&count_private=true" alt="hgarciaalberto" />
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hgarciaalberto&count_private=true" alt="hgarciaalberto" />
 </a>
 
 <h3 align="left">Connect with me:</h3>
