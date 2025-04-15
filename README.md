@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  <img src="https://komarev.com/ghpvc/?username=hgarciaalberto&label=Profile%20views&color=0e75b6&style=flat" alt="hgarciaalberto" />
 
 | Stats | Top Languages |
 | ------|:-------------:|
